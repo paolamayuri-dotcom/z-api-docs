@@ -14,6 +14,14 @@ title: Enviar lista de opções
 |      Key       |            Value            |
 | :------------: |     :-----------------:     |
 |  Client-Token  | **[TOKEN DE SEGURANÇA DA CONTA](../security/client-token)** |
+
+
+:::caution ATENÇÃO
+
+A funcionalidade de lista de opções não funciona mais em grupos. Essa limitação ocorre porque a função foi descontinuada pelo próprio WhatsApp para chats em grupo. Em conversas individuais, a lista de botões continua funcionando normalmente.
+
+:::
+
 ---
 
 ## Conceituação

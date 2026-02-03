@@ -15,6 +15,13 @@ title: Sending options list
 | :------------: |     :-----------------:     |
 |  Client-Token  | **[ACCOUNT SECURITY TOKEN](../security/client-token)** |
 
+
+:::caution ATTENTION
+
+The list of options functionality no longer works in groups. This limitation occurs because the feature was discontinued by WhatsApp itself for group chats. In individual conversations, the list of buttons continues to function normally.
+
+:::
+
 ---
 
 ## Concept 
