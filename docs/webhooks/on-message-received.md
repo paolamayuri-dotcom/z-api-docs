@@ -13,12 +13,6 @@ Todos os arquivos de midia recebidos do z-api através do seu webhook tem o praz
 
 :::
 
-:::caution Atenção
-
-O Z-API não aceita webhooks que não sejam HTTPS
-
-:::
-
 ---
 
 ## Atualizando Webhook

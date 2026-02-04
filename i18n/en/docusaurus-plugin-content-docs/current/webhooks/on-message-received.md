@@ -7,9 +7,9 @@ title: Upon receiving
 
 This is the incoming message return webhook
 
-:::caution Attention
+:::caution What is the expiration date for z-api files?
 
-Z-API does not accept webhooks that aren’t HTTPS
+All media files received from the z-api through your webhook have an expiration period of **30 days**. After this period, all files, whether audio, PDF, image, etc., will be deleted from storage.
 
 :::
 
