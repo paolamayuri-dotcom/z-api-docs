@@ -147,7 +147,11 @@ module.exports = {
       'chats/delete-chat',
       'chats/send-chat-expiration',
     ],
-    Calls: ['calls/introduction', 'calls/send-call'],
+    Calls: [
+      'calls/introduction',
+      'calls/send-call',
+      'calls/call-token',
+    ],
     Groups: [
       'group/introduction',
       'group/get-groups',
