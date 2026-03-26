@@ -36,7 +36,7 @@ In this method you send a call to a number that has whatsapp, whether it is your
 | Atributos | Tipo | Descrição |
 | :-- | :-: | :-- |
 | callDuration | number | Here you define how long you want the call to last, by default the call will last 5 seconds, but you can increase it up to 15 seconds |
-| callAudioUrl | string | Audio link (.mp3) |
+| callAudioUrl | string | Audio link (bitrate 16k) |
 
 :::caution Attention
 
