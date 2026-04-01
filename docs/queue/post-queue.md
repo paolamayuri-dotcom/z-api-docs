@@ -117,6 +117,7 @@ Este método é responsável por retornar mensagens da fila aguardando processam
 
 - Caso não envie `pagingState`, a primeira página será retornada automaticamente
 - Caso não informe `pageSize`, o valor padrão de 50 mensagens será utilizado
+- O valor máximo permitido para `pageSize` é de 500.
 - Utilize o `pagingState` retornado para buscar as próximas páginas
 - Quando `hasMore` for `false`, não existem mais mensagens disponíveis
 
